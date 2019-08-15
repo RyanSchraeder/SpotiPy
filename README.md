@@ -1,7 +1,7 @@
 # SpotiPy
 Machine Learning experimentation in Python with Spotify's API.
 
-*###Project conducted for final assessment in the University of Denver Coding Boot Camp
+*Project conducted for final assessment in the University of Denver Coding Boot Camp
 
 Group Members: 
 - Ryan Schraeder
