@@ -16,7 +16,7 @@ https://www.kaggle.com/geomack/spotifyclassification
 
 ### [Spotify API Song Attributes](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/ "Spotify API Song Features")
 
->> Back to Repo Home ![here] (https://github.com/RyanSchraeder/SpotiPy/) 
+>> Back to Repo Home (https://github.com/RyanSchraeder/SpotiPy/ "here") 
 
 ![Spotify](https://github.com/RyanSchraeder/SpotiPy/blob/master/Images/Spotify_Icon_RGB_Green_edited.jpg "Spotify")
 
