@@ -1,8 +1,10 @@
 # SpotiPy 
-![Spotify](https://github.com/RyanSchraeder/SpotiPy/blob/master/Images/Spotify_Icon_RGB_Green_edited.jpg "Spotify")
 Machine Learning experimentation in Python with Spotify's API.
 
 *Project conducted for final assessment in the University of Denver Coding Boot Camp*
+
+![Spotify](https://github.com/RyanSchraeder/SpotiPy/blob/master/Images/Spotify_Icon_RGB_Green_edited.jpg "Spotify")
+
 
 Group Members: 
 - Ryan Schraeder
