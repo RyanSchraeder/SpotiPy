@@ -3,6 +3,8 @@ Machine Learning experimentation in Python with Spotify's API.
 
 *Project conducted for final assessment in the University of Denver Coding Boot Camp*
 
+![Spotify](https://github.com/RyanSchraeder/SpotiPy/blob/master/Images/Spotify_Icon_RGB_Green_edited.jpg "Spotify")
+
 Group Members: 
 - Ryan Schraeder
 - Shirley Quintana 
@@ -17,8 +19,6 @@ https://www.kaggle.com/geomack/spotifyclassification
 ### [Spotify API Song Attributes](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/ "Spotify API Song Features")
 
 >Branches for ML (Shortcut to Shirley Quintana's Notebooks) [here](https://github.com/RyanSchraeder/SpotiPy/tree/Shirley_files)
-
-![Spotify](https://github.com/RyanSchraeder/SpotiPy/blob/master/Images/Spotify_Icon_RGB_Green_edited.jpg "Spotify")
 
 ### Copyright
 
