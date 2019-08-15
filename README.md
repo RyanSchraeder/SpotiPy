@@ -6,5 +6,5 @@ https://www.kaggle.com/geomack/spotifyclassification
 [Spotify API](https://www.google.com "Spotify API")
 
 Spotify Attributes Assessed:
-![alt text](https://github.com/RyanSchraeder/SpotiPy/blob/master/Images/Spotify_Icon_RGB_Green.png "Spotify API Attributes")
-(https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/)
+![alt text](https://developer.spotify.com/documentation/web-api/reference/tracks/get-audio-features/ "Spotify API Attributes")
+
